@@ -5,7 +5,8 @@ A new Flutter application.
 ## Screenshots
 
 Here are few screenshots of the application
-![Screenshot_2020-05-08-15-57-48-456_com vinayk covid_track](https://user-images.githubusercontent.com/59289444/81399907-8d733800-9149-11ea-8f59-da5f00972ef0.jpg)![Screenshot_2020-05-08-15-58-24-285_com vinayk covid_track](https://user-images.githubusercontent.com/59289444/81399931-9c59ea80-9149-11ea-8f8d-e85e878d4893.jpg)
+
+<img src="https://user-images.githubusercontent.com/59289444/81399907-8d733800-9149-11ea-8f59-da5f00972ef0.jpg" width="350"><img src="https://user-images.githubusercontent.com/59289444/81399931-9c59ea80-9149-11ea-8f8d-e85e878d4893.jpg" width="350">
 
 ## Getting Started
 
