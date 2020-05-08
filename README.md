@@ -1,7 +1,10 @@
 # covid_track
 
 A new Flutter application.
-#screenshots
+
+## Screenshots
+
+Here are few screenshots of the application
 
 ## Getting Started
 
