@@ -6,7 +6,7 @@ A new Flutter application.
 
 Here are few screenshots of the application
 
-<img src="https://user-images.githubusercontent.com/59289444/81399907-8d733800-9149-11ea-8f59-da5f00972ef0.jpg" width="350"><img src="https://user-images.githubusercontent.com/59289444/81399931-9c59ea80-9149-11ea-8f8d-e85e878d4893.jpg" width="350">
+<img src="https://user-images.githubusercontent.com/59289444/81399907-8d733800-9149-11ea-8f59-da5f00972ef0.jpg" width="350">           <img src="https://user-images.githubusercontent.com/59289444/81399931-9c59ea80-9149-11ea-8f8d-e85e878d4893.jpg" width="350">
 
 ## Getting Started
 
